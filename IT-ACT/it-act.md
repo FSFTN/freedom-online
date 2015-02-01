@@ -48,9 +48,9 @@ The improvements
 ## Sources
 
 1. [IT Act 2000 - Wikipedia Page](https://en.wikipedia.org/wiki/Information_Technology_Act_2000)
-2. [IT Act Amendment - PDF](http://deity.gov.in/sites/upload_files/dit/files/downloads/itact2000/it_amendment_act2008.pdf (Page 9)
+2. [IT Act Amendment - PDF](http://deity.gov.in/sites/upload_files/dit/files/downloads/itact2000/it_amendment_act2008.pdf (Page 9))
 3. [Breaking down section 66A of the IT Act - CIS India](http://cis-india.org/internet-governance/blog/breaking-down-section-66-a-of-the-it-act)
-4. [Note on Amendment 2008 - CIS India](http://cis-india.org/internet-governance/publications/it-act/short-note-on-amendment-act-2008))
+4. [Note on Amendment 2008 - CIS India](http://cis-india.org/internet-governance/publications/it-act/short-note-on-amendment-act-2008)
 5. [Waging war against Internet & Democracy - Free Software Movement of India](http://fsmi.in/waging-war-against-internet-and-democracy)
 6. [How India made it easy for everyone to play Internet censor - Kafila](http://kafila.org/2012/03/23/how-india-made-it-easy-for-everyone-to-play-internet-censor/)
 7. [Analysis if intermediaries guidelines - CIS India](http://cis-india.org/internet-governance/constitutional-analysis-of-intermediaries-guidelines-rules)
